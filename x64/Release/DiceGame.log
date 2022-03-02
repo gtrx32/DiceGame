@@ -1,0 +1,4 @@
+﻿  SDL2SoundEffects.cpp
+D:\а\БГТУ\Программирование\Игра в кости со звуками\DiceGame\src\SDL2SoundEffects.h(2,10): fatal error C1083: Не удается открыть файл включение: SDL_mixer.h: No such file or directory,
+  Game.cpp
+D:\а\БГТУ\Программирование\Игра в кости со звуками\DiceGame\src\SDL2SoundEffects.h(2,10): fatal error C1083: Не удается открыть файл включение: SDL_mixer.h: No such file or directory,
